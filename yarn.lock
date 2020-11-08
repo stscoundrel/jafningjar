@@ -4290,6 +4290,11 @@ verror@1.10.0:
     core-util-is "1.0.2"
     extsprintf "^1.2.0"
 
+volva@^1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/volva/-/volva-1.0.3.tgz#0606b15259b005425ef8ace61f8f423cb085ccc6"
+  integrity sha512-A4dHZsB3LZzQqwrS35bG6kjECUVQyQrE8+eyMFkJEl6PwDaRgsQzxrJ6E+HPUmKL/ZyMN5tNxWL9yWtjnFCEBQ==
+
 w3c-hr-time@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/w3c-hr-time/-/w3c-hr-time-1.0.2.tgz#0a89cdf5cc15822df9c360543676963e0cc308cd"
