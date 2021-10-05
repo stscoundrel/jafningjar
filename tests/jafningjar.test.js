@@ -1,4 +1,4 @@
-const { matchesSchema } = require('../index.js')
+const { matchesSchema } = require('../index')
 
 describe('Jafningjar comparisons', () => {
   test('Throws error on missing arguments', () => {
