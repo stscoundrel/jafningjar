@@ -4291,9 +4291,9 @@ verror@1.10.0:
     extsprintf "^1.2.0"
 
 volva@^1.0.3:
-  version "1.0.3"
-  resolved "https://registry.yarnpkg.com/volva/-/volva-1.0.3.tgz#0606b15259b005425ef8ace61f8f423cb085ccc6"
-  integrity sha512-A4dHZsB3LZzQqwrS35bG6kjECUVQyQrE8+eyMFkJEl6PwDaRgsQzxrJ6E+HPUmKL/ZyMN5tNxWL9yWtjnFCEBQ==
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/volva/-/volva-1.1.0.tgz#d8cac653acd06d4c1a2514187af18f323387a636"
+  integrity sha512-GyB38wOYgW+XNqiXODJN+NfJOv7Wr1+Our4s6hJ3pq/FQIV/2VD+naDzWNW/sPCzi5/3TGM5dJQFwGwrl6wIAA==
 
 w3c-hr-time@^1.0.2:
   version "1.0.2"
