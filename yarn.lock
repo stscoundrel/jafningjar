@@ -3750,9 +3750,9 @@ v8-to-istanbul@^8.1.0:
     source-map "^0.7.3"
 
 volva@^1.0.3:
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/volva/-/volva-1.2.1.tgz#fdaaae59408f894a6770ecab54aa629e613cf5db"
-  integrity sha512-S4M/OeqypH2BYK07+aoy5ursSbAZwUJQlyxM545JLqTsCuk03jwg3aXC5Y5Tq1cBLDGjM5TfkxKR1ZAkt6r45Q==
+  version "1.2.2"
+  resolved "https://registry.yarnpkg.com/volva/-/volva-1.2.2.tgz#f4af7575c6350503ff88b36d0157b5c6d8275be3"
+  integrity sha512-S2PMwvZhuZ6D5Zr9VRL+d5TiAuj9ANm55H2rzv64finCRob6ID1TBjZ6VmaF1VlVfUOVGzEC8Y2PgTZ0nlTWOA==
 
 w3c-hr-time@^1.0.2:
   version "1.0.2"
